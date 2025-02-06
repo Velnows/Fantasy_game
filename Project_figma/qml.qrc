@@ -1,0 +1,144 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/Fairy_tales.png</file>
+        <file>images/forDobro.png</file>
+        <file>images/forVolsheb.png</file>
+        <file>images/yandexart-fbvmb2523t3qi5diukok.png</file>
+        <file>TTF/Montserrat-Black.ttf</file>
+        <file>TTF/Montserrat-BlackItalic.ttf</file>
+        <file>TTF/Montserrat-Bold.ttf</file>
+        <file>TTF/Montserrat-BoldItalic.ttf</file>
+        <file>TTF/Montserrat-ExtraBold.ttf</file>
+        <file>TTF/Montserrat-ExtraBoldItalic.ttf</file>
+        <file>TTF/Montserrat-ExtraLight.ttf</file>
+        <file>TTF/Montserrat-ExtraLightItalic.ttf</file>
+        <file>TTF/Montserrat-Italic.ttf</file>
+        <file>TTF/Montserrat-Light.ttf</file>
+        <file>TTF/Montserrat-LightItalic.ttf</file>
+        <file>TTF/Montserrat-Medium.ttf</file>
+        <file>TTF/Montserrat-MediumItalic.ttf</file>
+        <file>TTF/Montserrat-Regular.ttf</file>
+        <file>TTF/Montserrat-SemiBold.ttf</file>
+        <file>TTF/Montserrat-SemiBoldItalic.ttf</file>
+        <file>TTF/Montserrat-Thin.ttf</file>
+        <file>TTF/Montserrat-ThinItalic.ttf</file>
+        <file>TTF/MrsSheppards-Regular.ttf</file>
+        <file>images/Book_1.png</file>
+        <file>images/Book_2.png</file>
+        <file>images/Book_3.png</file>
+        <file>images/ChaptersFon.png</file>
+        <file>svg/Not_WiFi.svg</file>
+        <file>images/forGreeting.png</file>
+        <file>images/Bestiariy_amulets.jpg</file>
+        <file>images/Bestiariy_class.png</file>
+        <file>images/Bestiariy_full.jpg</file>
+        <file>images/Creatures_2.png</file>
+        <file>images/crown_1.png</file>
+        <file>images/crown_2.png</file>
+        <file>images/crown_3.png</file>
+        <file>images/Gonec.png</file>
+        <file>images/Pisar.png</file>
+        <file>images/Razboinik.png</file>
+        <file>images/Silach.png</file>
+        <file>images/Archive.png</file>
+        <file>images/Group.png</file>
+        <file>images/Hp.png</file>
+        <file>images/Personal account.png</file>
+        <file>svg/Back.svg</file>
+        <file>svg/Backpack.svg</file>
+        <file>svg/Bestiariy.svg</file>
+        <file>svg/Group_Off.svg</file>
+        <file>svg/Group_On.svg</file>
+        <file>svg/Leave_cabinet.svg</file>
+        <file>svg/outlaw.svg</file>
+        <file>svg/Personal_cabinet.svg</file>
+        <file>svg/Personal_cabinet_Off.svg</file>
+        <file>svg/Quest_Off.svg</file>
+        <file>svg/Tales_cabinet.svg</file>
+        <file>svg/Average_amulet.svg</file>
+        <file>svg/Large_amulet.svg</file>
+        <file>svg/Small_amulet.svg</file>
+        <file>images/RaceBar.png</file>
+        <file>svg/Quests_adventures.svg</file>
+        <file>svg/Quests_scenario.svg</file>
+        <file>images/quests.png</file>
+        <file>svg/Quest_On.svg</file>
+        <file>svg/Bestiariy_On.svg</file>
+        <file>images/Adventures.png</file>
+        <file>svg/locked.svg</file>
+        <file>images/Step_locked_background.png</file>
+        <file>images/Step_loose_background.png</file>
+        <file>images/Stage_background.png</file>
+        <file>svg/Galochka.svg</file>
+        <file>svg/Lock_duotone.svg</file>
+        <file>svg/Lock.svg</file>
+        <file>images/Angulargus_gold.png</file>
+        <file>images/angulargus_silver.png</file>
+        <file>images/white_crown.png</file>
+        <file>images/Unusual_group_background.png</file>
+        <file>images/Ordinary_group_background.png</file>
+        <file>svg/Arhive_on_editor.svg</file>
+        <file>svg/Delete_on_editor.svg</file>
+        <file>svg/Plus_on_tales.svg</file>
+        <file>svg/Book_tales.svg</file>
+        <file>images/Races/Troll.png</file>
+        <file>images/Races/Bot.png</file>
+        <file>images/Races/Chert.png</file>
+        <file>images/Races/Domovoi.png</file>
+        <file>images/Races/Dragon.png</file>
+        <file>images/Races/Gorynych.png</file>
+        <file>images/Races/Kikimora.png</file>
+        <file>images/Races/Krisa.png</file>
+        <file>images/Races/Leshiy.png</file>
+        <file>images/Races/Rusalka.png</file>
+        <file>images/Races/Unicorn.png</file>
+        <file>images/Races/Upir.png</file>
+        <file>images/Races/Vasilisk.png</file>
+        <file>images/Races/Vodynoi.png</file>
+        <file>images/Races/Yasher.png</file>
+        <file>images/List_of_sessions.png</file>
+        <file>svg/Check_false.svg</file>
+        <file>svg/Check_true.svg</file>
+        <file>svg/Home.svg</file>
+    </qresource>
+    <qresource prefix="/Frame">
+        <file alias="Fairy_tales.qml">Frame/Fairy_tales.qml</file>
+        <file alias="Home_page.qml">Frame/Home_page.qml</file>
+        <file alias="Log_In.qml">Frame/Log_In.qml</file>
+        <file alias="Sign_In.qml">Frame/Sign_In.qml</file>
+        <file alias="Chapters.qml">Frame/Chapters.qml</file>
+        <file alias="Error_Connection.qml">Frame/Error_Connection.qml</file>
+        <file alias="Greeting.qml">Frame/Greeting.qml</file>
+        <file alias="Bestiariy.qml">Frame/Bestiariy.qml</file>
+        <file alias="Bestiariy_amulets.qml">Frame/Bestiariy_amulets.qml</file>
+        <file alias="Bestiariy_class.qml">Frame/Bestiariy_class.qml</file>
+        <file alias="Bestiariy_creatures.qml">Frame/Bestiariy_creatures.qml</file>
+        <file alias="Archive.qml">Frame/Archive.qml</file>
+        <file alias="Group.qml">Frame/Group.qml</file>
+        <file alias="Personal_Cabinet.qml">Frame/Personal_Cabinet.qml</file>
+        <file alias="Menu_Bar.qml">Frame/Menu_Bar.qml</file>
+        <file alias="Quests.qml">Frame/Quests.qml</file>
+        <file alias="Adventures.qml">Frame/Adventures.qml</file>
+        <file alias="Step_locked.qml">Frame/Step_locked.qml</file>
+        <file alias="List_group.qml">Frame/List_group.qml</file>
+        <file alias="List_group_looser.qml">Frame/List_group_looser.qml</file>
+        <file alias="Fairy_tales_teacher.qml">Frame/Fairy_tales_teacher.qml</file>
+        <file alias="Fairy_tales_edit.qml">Frame/Fairy_tales_edit.qml</file>
+        <file alias="Menu_teacher.qml">Frame/Menu_teacher.qml</file>
+        <file alias="Edit_stage.qml">Frame/Edit_stage.qml</file>
+        <file alias="List_of_sessions.qml">Frame/List_of_sessions.qml</file>
+        <file alias="Stages.qml">Frame/Stages.qml</file>
+        <file alias="Menu_Bar_Teacher.qml">Frame/Menu_Bar_Teacher.qml</file>
+    </qresource>
+    <qresource prefix="/Buttons">
+        <file alias="Log_In_Button.qml">Buttons/Log_In_Button.qml</file>
+        <file alias="Custom_Button.qml">Buttons/Custom_Button.qml</file>
+        <file alias="Close_Button.qml">Buttons/Close_Button.qml</file>
+        <file alias="Close_Button_Small.qml">Buttons/Close_Button_Small.qml</file>
+    </qresource>
+    <qresource prefix="/Canvas">
+        <file alias="CanvasTwo.qml">Canvas/CanvasTwo.qml</file>
+        <file alias="CanvasOne.qml">Canvas/CanvasOne.qml</file>
+    </qresource>
+</RCC>
